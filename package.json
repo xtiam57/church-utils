@@ -1,0 +1,11 @@
+{
+  "name": "church-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:xtiam57/church-utils.git",
+  "author": "Christiam Mena <christiam.mena@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
