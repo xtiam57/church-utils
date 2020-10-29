@@ -167,7 +167,7 @@ Cantadle con gratitud y amor.
 
 ---
 
-## 9. SEÑOR, ¿QUIEN ENTRARA?
+## 9. SEÑOR, ¿QUIEN ENTRARÁ?
 ***
 1) Señor, ¿quién entrará en tu santuario para adorar?
 Señor, ¿quién entrará en tu santuario para adorar?
@@ -265,7 +265,8 @@ Cuando el mundo no exista ya más.
 
 ## 13. ENGRANDECIDO SEA JEHOVÁ
 ***
-Engrandecido sea Jehová, nuestro Dios; Por todas las edades, por siempre. Amén.
+Engrandecido sea Jehová, nuestro Dios;
+Por todas las edades, por siempre. Amén.
 
 ---
 
@@ -294,7 +295,7 @@ Seas reflejado, y tu amor, probado. Amén.
 
 ---
 
-## 15. NUNCA, DIOS MIÓ
+## 15. NUNCA, DIOS MÍO
 ***
 1) Nunca, Dios mío, cesará mi labio
 De bendecirte, de cantar tu gloria,
@@ -961,7 +962,7 @@ La canción al mundo entonad:
 
 ---
 
-## 43. DE QUIEN PAGO MI REDENCION
+## 43. DE QUIEN PAGO MI REDENCIÓN
 ***
 1) De quien pagó mi redención,
 Podría siempre yo cantar,
@@ -1216,7 +1217,7 @@ Destruye el poder del mal. ¡Visítanos, Rey celestial!
 
 ---
 
-## 55. CONSOLAOS, PUEBLO MIO
+## 55. CONSOLAOS, PUEBLO MÍO
 ***
 1) Consolaos, pueblo mío, paz tened, dice el Señor;
 Consolad al que, perdido, yace en la oscuridad.
@@ -1253,7 +1254,7 @@ A tu trono de esplendor.
 
 ---
 
-## 57. EN BELEN NACIO JESÚS
+## 57. EN BELÉN NACIÓ JESÚS
 ***
 1) En Belén nació Jesús, aleluya,
 A los hombres trajo luz, aleluya.
@@ -1717,7 +1718,7 @@ navidad
 
 ---
 
-## 75. LA NOTÍCIA SIN IGUAL
+## 75. LA NOTICIA SIN IGUAL
 ***
 1) La noticia sin igual el ángel la dio
 A los fieles pastores del campo en Belén;
@@ -2353,7 +2354,7 @@ Por las obras no se alcanza salvación. Amén.
 
 ---
 
-## 102. JESUCRISTO FUE ÍNMOLADO
+## 102. JESUCRISTO FUE INMOLADO
 ***
 1) Jesucristo fue inmolado, por salvarte, pecador;
 Dio su sangre en el Calvario, por brindarte salvación.
@@ -2747,7 +2748,7 @@ Ya suyo soy, y de hoy en más a nadie temeré.
 
 ---
 
-## 119. EL DIA DEL SEÑOR
+## 119. EL DÍA DEL SEÑOR
 ***
 1) Quitada fue la piedra allí, la tumba de dolor;
 Mas Cristo el Rey resucitó y Él es nuestro Señor.
@@ -2833,7 +2834,7 @@ Gloria a Dios por la victoria del victorioso Salvador.
 
 ---
 
-## 123. SE LEVANTO EL SEÑOR
+## 123. SE LEVANTÓ EL SEÑOR
 ***
 1) Mataron al Señor, a Cristo nuestro Rey,
 Y en tumba de dolor brotó el amanecer.
@@ -2875,7 +2876,7 @@ Y al hogar celeste llévanos, Señor.
 
 ---
 
-## 125. LA TUMBA LE ENCERRO
+## 125. LA TUMBA LE ENCERRÓ
 ***
 1) La tumba le encerró, Cristo, mi Cristo;
 El alba allí esperó, Cristo el Señor.
@@ -3047,7 +3048,7 @@ Ven, Jesús, oh pronto, ven. Ven, Jesús, oh pronto ven. Amén.
 
 ---
 
-## 132. YO SOLO ESPERO ESE DIA
+## 132. YO SOLO ESPERO ESE DÍA
 ***
 1) Yo sólo espero ese día cuando Cristo volverá,
 Yo sólo espero ese día cuando Cristo volverá.
@@ -3069,7 +3070,7 @@ Con los redimidos al Cordero alabaré.
 
 ---
 
-## 133. SANTO ESPÍRITU, SE MI GUIA
+## 133. SANTO ESPÍRITU, SE MI GUÍA
 ***
 1) Santo Espíritu de amor, ven a mí con prontitud:
 Purifícame, Señor, cúbreme con tu virtud.
@@ -3856,7 +3857,7 @@ Tan sólo hay poder en Jesús.
 
 ---
 
-## 171. LA CRUZ SOLO ME GUIARA
+## 171. LA CRUZ SOLO ME GUIARÁ
 ***
 1) Al Calvario solo Jesús ascendió
 Llevando pesada cruz,
@@ -4112,7 +4113,7 @@ En mi aflicción ten piedad.
 
 ---
 
-## 182. JESÚS ME INCLUYE AMI
+## 182. JESÚS ME INCLUYE A MI
 ***
 1) Salvo y feliz por Jesús ya soy,
 Y por mi senda cantando voy;
@@ -4202,7 +4203,7 @@ Es su misericordia, es su misericordia. Salmo 107:1
 
 ---
 
-## 186. SI CREYERE PUEDE A EL VENIR
+## 186. SI CREYERE PUEDE A ÉL VENIR
 ***
 1) ¡Oh, qué gozo yo siento en mi corazón,
 No hay más oscuridad!
@@ -4314,7 +4315,7 @@ En tu sangre yo encuentro vida y perdón.
 
 ---
 
-## 191. ¿QUE HARAS TU CON CRISTO?
+## 191. ¿QUÉ HARÁS TU CON CRISTO?
 ***
 1) Ante Pilato Jesús está;
 Todos los suyos huyeron ya;
@@ -4595,7 +4596,7 @@ Ven al Señor Jesús.
 
 ---
 
-## 203. ALGUIEN ESTA A MI PUERTA
+## 203. ALGUIEN ESTÁ A MI PUERTA
 ***
 1) Alguien está a mi puerta,
 Paciente quiere entrar;
@@ -4732,7 +4733,7 @@ Tu tentación, tu dolor.
 
 ---
 
-## 209. ¿TE SIENTES CASÍ RESUELTO YA?
+## 209. ¿TE SIENTES CASI RESUELTO YA?
 ***
 1) ¿Te sientes casi resuelto ya?
 ¿Te falta poco para creer?
@@ -4751,7 +4752,7 @@ En la presencia del justo Juez.
 
 ---
 
-## 210. TENDRAS QUE RENACER
+## 210. TENDRÁS QUE RENACER
 ***
 1) Un hombre de noche llegó a Jesús,
 Buscando la senda de vida y luz,
@@ -4805,7 +4806,7 @@ Cordero de Dios, heme aquí.
 
 ---
 
-## 212. ¿QUE DEBO HACER?
+## 212. ¿QUÉ DEBO HACER?
 ***
 1) "¿Qué debo hacer? ", temblando preguntó
 En la prisión el hombre;
@@ -4910,7 +4911,7 @@ Tú eres clara luz.
 
 ---
 
-## 216. ES JESÚS MI AMANTE GUIA
+## 216. ES JESÚS MI AMANTE GUÍA
 ***
 1) Si Jesús es quien me guía, ¿cómo más podré temer?
 ¿Dudaré de su porfía si mi herencia en Él tendré?
@@ -5144,7 +5145,7 @@ Tu benigna protección, tu benigna protección.
 
 ---
 
-## 226. SE TU MI VISION
+## 226. SE TU MI VISIÓN
 ***
 1) Oh Dios, de mi alma, sé tú mi visión,
 Nada te aparte de mi corazón.
@@ -5168,7 +5169,7 @@ Rey de los cielos, tesoro mejor. Amén.
 
 ---
 
-## 227. ME GUIA EL
+## 227. ME GUÍA EL
 ***
 1) Me guía Él, con cuánto amor,
 Me guía siempre mi Señor;
@@ -5290,7 +5291,7 @@ Nos guardará por toda eternidad.
 
 ---
 
-## 232. PASTOREANOS, JESÚS AMANTE
+## 232. PASTORÉANOS, JESÚS AMANTE
 ***
 1) Pastoréanos, Jesús amante, cuida, ¡oh Señor!, tu grey;
 Tu sustento placentero dale al redil, y justa ley.
@@ -5702,7 +5703,7 @@ En memoria de mí, a Dios buscad, de corazón recordad.
 
 ---
 
-## 251. TU SANGRE CARMESI
+## 251. TU SANGRE CARMESÍ
 ***
 1) Son tu sangre carmesí y tu cuerpo roto seña,
 Cristo, de tu amor por mí:
@@ -5817,7 +5818,7 @@ Los testigos ante el mundo del eterno Salvador.
 
 ---
 
-## 256. AMEMONOS, HERMANOS
+## 256. AMÉMONOS, HERMANOS
 ***
 1) Amémonos, hermanos, con tierno y puro amor;
 Un solo cuerpo somos, y nuestro Padre es Dios.
@@ -5955,7 +5956,7 @@ Reunidos en paz y amor. Amén.
 
 ---
 
-## 263. MANDANOS LLUVIAS DE BENDICIÓN
+## 263. MÁNDANOS LLUVIAS DE BENDICIÓN
 ***
 1) Mándanos lluvias de bendición,
 Es la plegaria del corazón;
@@ -6331,7 +6332,7 @@ navidad
 
 ---
 
-## 279. OH, RUEGOTE, SEÑOR, ME ENSEÑES
+## 279. OH, RUÉGOTE, SEÑOR, ME ENSEÑES
 ***
 1) Oh, ruego te, Señor Jesús,
 Que tú me enseñes siempre a hablar
@@ -6727,7 +6728,7 @@ Que recibirán eterno galardón.
 
 ---
 
-## 295. ASI OS MANDO YO
+## 295. ASÍ OS MANDO YO
 ***
 1) Al mundo id, a realizar la obra,
 Id a servir en medio del dolor;
@@ -6799,7 +6800,7 @@ La vida por su cruz podrán tener.
 
 ---
 
-## 298. YO IRE DE LA TIERRA HASTA EL FIN
+## 298. YO IRÉ DE LA TIERRA HASTA EL FIN
 ***
 1) Escucho llantos de dolor, de niños el clamor,
 Que hacen llorar; guerras mil contemplo por doquier;
@@ -6880,7 +6881,7 @@ Habla, oh Señor, a mi alma, que tu siervo soy.
 
 ---
 
-## 302. APRISA, ¡SION!
+## 302. APRISA, ¡SIÓN!
 ***
 1) Aprisa, ¡Sion!, que tu Señor espera;
 Al mundo entero di que Dios es luz;
@@ -7155,7 +7156,7 @@ Dios, yo quiero amarte siempre de corazón.
 
 ---
 
-## 315. MAS DE JESÚS QUIERO APRENDER
+## 315. MÁS DE JESÚS QUIERO APRENDER
 ***
 1) Más de Jesús quiero aprender,
 Más de su gracia conocer,
@@ -7334,7 +7335,7 @@ Jesucristo es para mí.
 
 ---
 
-## 322. HABLADME MAS DE CRISTO
+## 322. HABLADME MÁS DE CRISTO
 ***
 1) Quiero que habléis de aquel gran amor
 Que en el Calvario Dios nos mostró;
@@ -7412,7 +7413,7 @@ Gozo y luz se acabarán; suyo soy, no pido más.
 
 ---
 
-## 325. YO SE A QUIEN HE CREÍDO
+## 325. YO SÉ A QUIEN HE CREÍDO
 ***
 1) No sé por qué la gracia del Señor
 Me hizo conocer;
@@ -7584,7 +7585,7 @@ Y triunfar podremos sobre el mal.
 
 ---
 
-## 332. CONFIO YO EN CRISTO
+## 332. CONFÍO YO EN CRISTO
 ***
 1) Confío yo en Cristo, que en la cruz murió;
 Y por su muerte, listo, voy a la gloria yo.
@@ -8025,7 +8026,7 @@ Del mortal lleva las cargas, y le da consuelo y paz.
 
 ---
 
-## 351. ¿CUANTOS PUEDEN?
+## 351. ¿CUÁNTOS PUEDEN?
 ***
 1) "¿Cuántos pueden," dijo Cristo, "a la cruz conmigo ir?"
 Respondieron los valientes, ya dispuestos a seguir:
@@ -8403,7 +8404,7 @@ En Dios ten fe, pues te socorrerá;
 
 ---
 
-## 367. CRISTO, EN TI CONFIO
+## 367. CRISTO, EN TI CONFÍO
 ***
 1) Cristo, en ti confío, mi alma entrego a ti,
 Pues perdido estaba y tú viniste a mí.
@@ -9433,7 +9434,7 @@ Le rendí mi corazón, en el huerto de oración.
 
 ---
 
-## 412. GETSEMANI
+## 412. GETSEMANÍ
 ***
 1) Una noche de luz el divino Jesús
 Fue al huerto de Getsemaní.
@@ -9815,7 +9816,7 @@ Mi don de amor te traigo a ti, ¿Qué ofreces tú por mí?
 
 ---
 
-## 428. FIEL MAYORDOMO SERE
+## 428. FIEL MAYORDOMO SERÉ
 ***
 1) Vengo rendido a tus pies, Señor;
 Quiero fielmente depositar:
@@ -10549,7 +10550,7 @@ Ya pertenezco a Él.
 
 ---
 
-## 460. PORQUE EL VIVE
+## 460. PORQUE ÉL VIVE
 ***
 1) Dios nos envió a su Hijo, Cristo;
 Él es salud, paz y perdón.
@@ -10619,7 +10620,7 @@ Cristo, el Pastor eterno, que a sus ovejas vino a Salvar
 
 ---
 
-## 463. ¿SABES POR QUE CANTO A CRISTO?
+## 463. ¿SABES POR QUÉ CANTO A CRISTO?
 ***
 1) Suena en mi ser dulce canto:
 Cristo el Señor me salvó;
@@ -11132,7 +11133,7 @@ Y le sirvo por su amor.
 
 ---
 
-## 484. ¿COMO PODRE ESTAR TRISTE?
+## 484. ¿CÓMO PODRÉ ESTAR TRISTE?
 ***
 1) ¿Cómo podré estar triste? ¿Cómo entre sombras ir?
 ¿Cómo sentirme solo y en el dolor vivir?
@@ -11178,7 +11179,7 @@ Hijo soy de Dios por gracia de Jesús mi Salvador.
 
 ---
 
-## 486. CADA DIA QUE PASA
+## 486. CADA DÍA QUE PASA
 ***
 1) Cada día que pasa yo me siento mucho más agradecido a Dios,
 Y al sentir su amor inmenso yo comprendo todo el bien que Él hizo por mí.
@@ -11304,7 +11305,7 @@ Riquezas puras de verdad, que brotan de su amor.
 
 ---
 
-## 492. CUAN GLORIOSA SERA LA MAÑANA
+## 492. CUAN GLORIOSA SERÁ LA MAÑANA
 ***
 1) Cuán gloriosa será la mañana
 Cuando venga Jesús el Salvador;
@@ -11385,7 +11386,7 @@ Mis penas todas cambiaré por gozo y paz en ti.
 
 ---
 
-## 496. YO PODRE RECONOCERLE
+## 496. YO PODRÉ RECONOCERLE
 ***
 1) Cuando al fin se termine nuestra vida terrenal,
 Y el río oscuro tenga que cruzar,
@@ -11646,7 +11647,7 @@ Hallamos gozo, paz, poder.
 
 ---
 
-## 506. HASTA ESE DIA
+## 506. HASTA ESE DÍA
 ***
 1) Puedo cantar, ¡sí!, cuando yo recuerdo
 Que el dolor muy pronto ha de pasar;
@@ -11695,7 +11696,7 @@ En las moradas de luz y amor. Amén.
 
 ---
 
-## 508. HAY UIM MUNDO FELIZ MAS ALLÁ
+## 508. HAY UN MUNDO FELIZ MAS ALLÁ
 ***
 1) Hay un mundo feliz más allá,
 Donde moran los santos en luz,
@@ -11864,7 +11865,7 @@ Llevemos a otros muy cerca de Él.
 
 ---
 
-## 516. ¿QUE TE DARE, MAESTRO?
+## 516. ¿QUÉ TE DARE, MAESTRO?
 ***
 1) ¿Qué te daré, Maestro? Te diste tú por mí.
 ¿Menos daré de lo que obtendré? o ¿todo daré ti?

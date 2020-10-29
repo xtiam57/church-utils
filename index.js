@@ -11,32 +11,30 @@ return fs.readFile('./HIMNOS.txt', 'utf8', (err, data) => {
   songs.forEach((song, index) => {
     const parts = song.split('***\n').filter((part) => part !== '');
     const item = {
-      title: '',
-      number: index + 1,
-      chorus: null,
-      startsWithChorus: false,
-      stanzas: [],
-      stanzasCount: 0,
-      tags: null
+      numero: index + 1,
+      titulo: '',
+      coro: null,
+      estrofas: [],
+      empiezaConCoro: false,
+      etiquetas: null
     };
 
     parts.forEach((part, index) => {
       const lines = part.split('\n').filter((line) => line !== '');
 
       if (index === 0) {
-        item.title = lines.join().replace(`## ${item.number}. `, '');
-        console.log(item.number, item.title);
+        item.titulo = lines.join().replace(`## ${item.numero}. `, '');
+        console.log(item.numero, item.titulo);
       } else {
         if (lines[0].includes('@CORO')) {
           lines.shift();
-          item.chorus = lines;
-          item.startsWithChorus = item.stanzasCount === 0;
+          item.coro = lines.join('/n');
+          item.empiezaConCoro = item.estrofas.length === 0;
         } else if (lines[0].includes('@TAGS')) {
           lines.shift();
-          item.tags = lines;
+          item.etiquetas = lines.join(',');
         } else {
-          item.stanzas.push(lines);
-          item.stanzasCount++;
+          item.estrofas.push(lines.join('/n'));
         }
       }
     });
