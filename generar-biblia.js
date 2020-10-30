@@ -1,10 +1,10 @@
 const fs = require('fs');
 const books = require('./src/biblia/_index.json');
 
-const table = [];
+let booksWritten = 0;
 
 books.forEach((book, index) => {
-  return fs.readFile(`./src/biblia/${book}.txt`, 'utf-8', (error, data) => {
+  fs.readFile(`./src/biblia/${book.key}.txt`, 'utf-8', (error, data) => {
     if (error) {
       console.log(error);
     }
@@ -17,24 +17,37 @@ books.forEach((book, index) => {
       json.push(lines);
     });
 
-    return fs.writeFile(
-      `./dist/biblia/${book}.json`,
+    fs.writeFile(
+      `./dist/biblia/${book.key}.json`,
       JSON.stringify(json, null, 2),
       'utf-8',
       (error) => {
         if (error) {
           console.log(error);
         }
-        table.push({
-          number: index + 1,
-          book: `${book}.json`,
-          chapters: json.length
-        });
 
-        if (index === books.length - 1) {
-          console.table(table);
+        // Extra info
+        book.number = index + 1;
+        book.chapters = json.length;
+        book.verses = json.reduce((count, b) => count + b.length, 0);
+
+        booksWritten++;
+
+        if (booksWritten === books.length) {
+          createIndex();
         }
       }
     );
   });
 });
+
+function createIndex() {
+  fs.writeFile(
+    './dist/biblia/_index.json',
+    JSON.stringify(books, null, 2),
+    'utf-8',
+    () => {
+      console.log('Biblia generada!');
+    }
+  );
+}
