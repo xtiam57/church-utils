@@ -6,6 +6,6 @@
   "author": "Christiam Mena <christiam.mena@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "start": "node generar-biblia.js && node generar-himnos.js"
   }
 }
