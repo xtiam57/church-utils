@@ -11,3 +11,8 @@ Una colección de 530 himnos cristianos organizados en un archivo ``JSON``.
 ## Generar archivos
 
 Ejecuta el comando `yarn start` para generar los archivos. Ve a `./dist` para encontrar los resultados.
+
+## TODO
+
+- [ ] Palabras de Cristo en rojo
+- [ ] Títulos de las secciones de la Biblia
