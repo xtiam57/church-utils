@@ -34,14 +34,14 @@ books.forEach((book, index) => {
         booksWritten++;
 
         if (booksWritten === books.length) {
-          createIndex();
+          createIndex(books);
         }
       }
     );
   });
 });
 
-function createIndex() {
+function createIndex(books) {
   fs.writeFile(
     './dist/biblia/_index.json',
     JSON.stringify(books, null, 2),

@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-fs.readFile('./src/himnos/himnos.txt', 'utf8', (err, data) => {
+fs.readFile('./src/himnario/himnario.txt', 'utf8', (err, data) => {
   if (err) {
     return console.log(err);
   }
@@ -42,14 +42,30 @@ fs.readFile('./src/himnos/himnos.txt', 'utf8', (err, data) => {
   });
 
   fs.writeFile(
-    './dist/himnos/himnos.json',
+    './dist/himnario/himnario.json',
     JSON.stringify(json, null, 2),
     'utf-8',
     (err) => {
       if (err) {
         return console.log(err);
       }
-      console.log('Himnario generado!');
+      const _index = json.reduce((prev, { title }) => {
+        prev.push(title);
+        return prev;
+      }, []);
+
+      createIndex(_index);
     }
   );
 });
+
+function createIndex(data) {
+  fs.writeFile(
+    './dist/himnario/_index.json',
+    JSON.stringify(data, null, 2),
+    'utf-8',
+    () => {
+      console.log('Himnario generado!');
+    }
+  );
+}
