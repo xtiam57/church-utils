@@ -10,12 +10,14 @@ fs.readFile('./src/himnario/himnario.txt', 'utf8', (err, data) => {
 
   songs.forEach((song, index) => {
     const parts = song.split('***\n').filter((part) => part !== '');
+
     const item = {
-      number: index + 1,
+      number: 0,
       title: '',
       chorus: null,
       stanzas: [],
       startsWithChorus: false,
+      authors: null,
       tags: null
     };
 
@@ -23,12 +25,17 @@ fs.readFile('./src/himnario/himnario.txt', 'utf8', (err, data) => {
       const lines = part.split('\n').filter((line) => line !== '');
 
       if (index === 0) {
-        item.title = lines.join().replace(`## ${item.number}. `, '');
+        let title = lines.join().replace('## ', '').replace('.', '');
+        item.number = +title.match(/^\d+/gm);
+        item.title = title.replace(item.number, '').trim();
       } else {
         if (lines[0].includes('@CORO')) {
           lines.shift();
           item.chorus = lines.join('/n');
           item.startsWithChorus = item.stanzas.length === 0;
+        } else if (lines[0].includes('@AUTHORS')) {
+          lines.shift();
+          item.authors = lines.join(', ');
         } else if (lines[0].includes('@TAGS')) {
           lines.shift();
           item.tags = lines.join(',');
@@ -43,7 +50,11 @@ fs.readFile('./src/himnario/himnario.txt', 'utf8', (err, data) => {
 
   fs.writeFile(
     './dist/himnario/himnario.json',
-    JSON.stringify(json, null, 2),
+    JSON.stringify(
+      json.sort((a, b) => a.number - b.number),
+      null,
+      2
+    ),
     'utf-8',
     (err) => {
       if (err) {

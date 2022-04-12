@@ -1,11 +1,11 @@
 En el primer tratado, oh Teófilo, hablé acerca de todas las cosas que Jesús comenzó a hacer y a enseñar,
 hasta el día en que fue recibido arriba, después de haber dado mandamientos por el Espíritu Santo a los apóstoles que había escogido;
 a quienes también, después de haber padecido, se presentó vivo con muchas pruebas indubitables, apareciéndoseles durante cuarenta días y hablándoles acerca del reino de Dios.
-Y estando juntos, les mandó que no se fueran de Jerusalén, sino que esperasen la promesa del Padre, la cual, les dijo, oísteis de mí.
-Porque Juan ciertamente bautizó con agua, mas vosotros seréis bautizados con el Espíritu Santo dentro de no muchos días.
+Y estando juntos, les mandó que no se fueran de Jerusalén, sino que _esperasen la promesa del Padre, la cual,__ les dijo, _oísteis de mí.__
+_Porque Juan ciertamente bautizó con agua, mas vosotros seréis bautizados con el Espíritu Santo dentro de no muchos días.__
 Entonces los que se habían reunido le preguntaron, diciendo: Señor, ¿restaurarás el reino a Israel en este tiempo?
-Y les dijo: No os toca a vosotros saber los tiempos o las sazones, que el Padre puso en su sola potestad;
-pero recibiréis poder, cuando haya venido sobre vosotros el Espíritu Santo, y me seréis testigos en Jerusalén, en toda Judea, en Samaria, y hasta lo último de la tierra.
+Y les dijo: _No os toca a vosotros saber los tiempos o las sazones, que el Padre puso en su sola potestad;__
+_pero recibiréis poder, cuando haya venido sobre vosotros el Espíritu Santo, y me seréis testigos en Jerusalén, en toda Judea, en Samaria, y hasta lo último de la tierra.__
 Y habiendo dicho estas cosas, viéndolo ellos, fue alzado, y le recibió una nube que le ocultó de sus ojos.
 Y estando ellos con los ojos puestos en el cielo, entre tanto que él se iba, he aquí se pusieron junto a ellos dos varones con vestiduras blancas,
 los cuales también les dijeron: Varones galileos, ¿por qué estáis mirando al cielo? Este mismo Jesús, que ha sido tomado de vosotros al cielo, así vendrá como le habéis visto ir al cielo.
@@ -302,19 +302,19 @@ Pero Felipe se encontró en Azoto; y pasando, anunciaba el evangelio en todas la
 Saulo, respirando aún amenazas y muerte contra los discípulos del Señor, vino al sumo sacerdote,
 y le pidió cartas para las sinagogas de Damasco, a fin de que si hallase algunos hombres o mujeres de este Camino, los trajese presos a Jerusalén.
 Mas yendo por el camino, aconteció que al llegar cerca de Damasco, repentinamente le rodeó un resplandor de luz del cielo;
-y cayendo en tierra, oyó una voz que le decía: Saulo, Saulo, ¿por qué me persigues?
-El dijo: ¿Quién eres, Señor? Y le dijo: Yo soy Jesús, a quien tú persigues; dura cosa te es dar coces contra el aguijón.
-El, temblando y temeroso, dijo: Señor, ¿qué quieres que yo haga? Y el Señor le dijo: Levántate y entra en la ciudad, y se te dirá lo que debes hacer.
+y cayendo en tierra, oyó una voz que le decía: _Saulo, Saulo, ¿por qué me persigues?__
+El dijo: ¿Quién eres, Señor? Y le dijo: _Yo soy Jesús, a quien tú persigues; dura cosa te es dar coces contra el aguijón.__
+El, temblando y temeroso, dijo: Señor, ¿qué quieres que yo haga? Y el Señor le dijo: _Levántate y entra en la ciudad, y se te dirá lo que debes hacer.__
 Y los hombres que iban con Saulo se pararon atónitos, oyendo a la verdad la voz, mas sin ver a nadie.
 Entonces Saulo se levantó de tierra, y abriendo los ojos, no veía a nadie; así que, llevándole por la mano, le metieron en Damasco,
 donde estuvo tres días sin ver, y no comió ni bebió.
-Había entonces en Damasco un discípulo llamado Ananías, a quien el Señor dijo en visión: Ananías. Y él respondió: Heme aquí, Señor.
-Y el Señor le dijo: Levántate, y ve a la calle que se llama Derecha, y busca en casa de Judas a uno llamado Saulo, de Tarso; porque he aquí, él ora,
-y ha visto en visión a un varón llamado Ananías, que entra y le pone las manos encima para que recobre la vista.
+Había entonces en Damasco un discípulo llamado Ananías, a quien el Señor dijo en visión: _Ananías.__ Y él respondió: Heme aquí, Señor.
+Y el Señor le dijo: _Levántate, y ve a la calle que se llama Derecha, y busca en casa de Judas a uno llamado Saulo, de Tarso; porque he aquí, él ora,__
+_y ha visto en visión a un varón llamado Ananías, que entra y le pone las manos encima para que recobre la vista.__
 Entonces Ananías respondió: Señor, he oído de muchos acerca de este hombre, cuántos males ha hecho a tus santos en Jerusalén;
 y aun aquí tiene autoridad de los principales sacerdotes para prender a todos los que invocan tu nombre.
-El Señor le dijo: Ve, porque instrumento escogido me es éste, para llevar mi nombre en presencia de los gentiles, y de reyes, y de los hijos de Israel;
-porque yo le mostraré cuánto le es necesario padecer por mi nombre.
+El Señor le dijo: _Ve, porque instrumento escogido me es éste, para llevar mi nombre en presencia de los gentiles, y de reyes, y de los hijos de Israel;__
+_porque yo le mostraré cuánto le es necesario padecer por mi nombre.__
 Fue entonces Ananías y entró en la casa, y poniendo sobre él las manos, dijo: Hermano Saulo, el Señor Jesús, que se te apareció en el camino por donde venías, me ha enviado para que recibas la vista y seas lleno del Espíritu Santo.
 Y al momento le cayeron de los ojos como escamas, y recibió al instante la vista; y levantándose, fue bautizado.
 Y habiendo tomado alimento, recobró fuerzas. Y estuvo Saulo por algunos días con los discípulos que estaban en Damasco.
@@ -407,7 +407,7 @@ Y el Espíritu me dijo que fuese con ellos sin dudar. Fueron también conmigo es
 quien nos contó cómo había visto en su casa un ángel, que se puso en pie y le dijo: Envía hombres a Jope, y haz venir a Simón, el que tiene por sobrenombre Pedro;
 él te hablará palabras por las cuales serás salvo tú, y toda tu casa.
 Y cuando comencé a hablar, cayó el Espíritu Santo sobre ellos también, como sobre nosotros al principio.
-Entonces me acordé de lo dicho por el Señor, cuando dijo: Juan ciertamente bautizó en agua, mas vosotros seréis bautizados con el Espíritu Santo.
+Entonces me acordé de lo dicho por el Señor, cuando dijo: _Juan ciertamente bautizó en agua, mas vosotros seréis bautizados con el Espíritu Santo.__
 Si Dios, pues, les concedió también el mismo don que a nosotros que hemos creído en el Señor Jesucristo, ¿quién era yo que pudiese estorbar a Dios?
 Entonces, oídas estas cosas, callaron, y glorificaron a Dios, diciendo: ¡De manera que también a los gentiles ha dado Dios arrepentimiento para vida!
 Ahora bien, los que habían sido esparcidos a causa de la persecución que hubo con motivo de Esteban, pasaron hasta Fenicia, Chipre y Antioquía, no hablando a nadie la palabra, sino sólo a los judíos.
@@ -657,8 +657,8 @@ Y cuando Silas y Timoteo vinieron de Macedonia, Pablo estaba entregado por enter
 Pero oponiéndose y blasfemando éstos, les dijo, sacudiéndose los vestidos: Vuestra sangre sea sobre vuestra propia cabeza; yo, limpio; desde ahora me iré a los gentiles.
 Y saliendo de allí, se fue a la casa de uno llamado Justo, temeroso de Dios, la cual estaba junto a la sinagoga.
 Y Crispo, el principal de la sinagoga, creyó en el Señor con toda su casa; y muchos de los corintios, oyendo, creían y eran bautizados.
-Entonces el Señor dijo a Pablo en visión de noche: No temas, sino habla, y no calles;
-porque yo estoy contigo, y ninguno pondrá sobre ti la mano para hacerte mal, porque yo tengo mucho pueblo en esta ciudad.
+Entonces el Señor dijo a Pablo en visión de noche: _No temas, sino habla, y no calles;__
+_porque yo estoy contigo, y ninguno pondrá sobre ti la mano para hacerte mal, porque yo tengo mucho pueblo en esta ciudad.__
 Y se detuvo allí un año y seis meses, enseñándoles la palabra de Dios.
 Pero siendo Galión procónsul de Acaya, los judíos se levantaron de común acuerdo contra Pablo, y le llevaron al tribunal,
 diciendo: Este persuade a los hombres a honrar a Dios contra la ley.
@@ -754,7 +754,7 @@ Por tanto, velad, acordándoos que por tres años, de noche y de día, no he ces
 Y ahora, hermanos, os encomiendo a Dios, y a la palabra de su gracia, que tiene poder para sobreedificaros y daros herencia con todos los santificados.
 Ni plata ni oro ni vestido de nadie he codiciado.
 Antes vosotros sabéis que para lo que me ha sido necesario a mí y a los que están conmigo, estas manos me han servido.
-En todo os he enseñado que, trabajando así, se debe ayudar a los necesitados, y recordar las palabras del Señor Jesús, que dijo: Más bienaventurado es dar que recibir.
+En todo os he enseñado que, trabajando así, se debe ayudar a los necesitados, y recordar las palabras del Señor Jesús, que dijo: _Más bienaventurado es dar que recibir.__
 Cuando hubo dicho estas cosas, se puso de rodillas, y oró con todos ellos.
 Entonces hubo gran llanto de todos; y echándose al cuello de Pablo, le besaban,
 doliéndose en gran manera por la palabra que dijo, de que no verían más su rostro. Y le acompañaron al barco.
@@ -806,10 +806,10 @@ Yo de cierto soy judío, nacido en Tarso de Cilicia, pero criado en esta ciudad,
 Perseguía yo este Camino hasta la muerte, prendiendo y entregando en cárceles a hombres y mujeres;
 como el sumo sacerdote también me es testigo, y todos los ancianos, de quienes también recibí cartas para los hermanos, y fui a Damasco para traer presos a Jerusalén también a los que estuviesen allí, para que fuesen castigados.
 Pero aconteció que yendo yo, al llegar cerca de Damasco, como a mediodía, de repente me rodeó mucha luz del cielo;
-y caí al suelo, y oí una voz que me decía: Saulo, Saulo, ¿por qué me persigues?
-Yo entonces respondí: ¿Quién eres, Señor? Y me dijo: Yo soy Jesús de Nazaret, a quien tú persigues.
+y caí al suelo, y oí una voz que me decía: _Saulo, Saulo, ¿por qué me persigues?__
+Yo entonces respondí: ¿Quién eres, Señor? Y me dijo: _Yo soy Jesús de Nazaret, a quien tú persigues.__
 Y los que estaban conmigo vieron a la verdad la luz, y se espantaron; pero no entendieron la voz del que hablaba conmigo.
-Y dije: ¿Qué haré, Señor? Y el Señor me dijo: Levántate, y ve a Damasco, y allí se te dirá todo lo que está ordenado que hagas.
+Y dije: ¿Qué haré, Señor? Y el Señor me dijo: _Levántate, y ve a Damasco, y allí se te dirá todo lo que está ordenado que hagas.__
 Y como yo no veía a causa de la gloria de la luz, llevado de la mano por los que estaban conmigo, llegué a Damasco.
 Entonces uno llamado Ananías, varón piadoso según la ley, que tenía buen testimonio de todos los judíos que allí moraban,
 vino a mí, y acercándose, me dijo: Hermano Saulo, recibe la vista. Y yo en aquella misma hora recobré la vista y lo miré.
@@ -817,10 +817,10 @@ Y él dijo: El Dios de nuestros padres te ha escogido para que conozcas su volun
 Porque serás testigo suyo a todos los hombres, de lo que has visto y oído.
 Ahora, pues, ¿por qué te detienes? Levántate y bautízate, y lava tus pecados, invocando su nombre.
 Y me aconteció, vuelto a Jerusalén, que orando en el templo me sobrevino un éxtasis.
-Y le vi que me decía: Date prisa, y sal prontamente de Jerusalén; porque no recibirán tu testimonio acerca de mí.
+Y le vi que me decía: _Date prisa, y sal prontamente de Jerusalén; porque no recibirán tu testimonio acerca de mí.__
 Yo dije: Señor, ellos saben que yo encarcelaba y azotaba en todas las sinagogas a los que creían en ti;
 y cuando se derramaba la sangre de Esteban tu testigo, yo mismo también estaba presente, y consentía en su muerte, y guardaba las ropas de los que le mataban.
-Pero me dijo: Ve, porque yo te enviaré lejos a los gentiles.
+Pero me dijo: _Ve, porque yo te enviaré lejos a los gentiles.__
 Y le oyeron hasta esta palabra; entonces alzaron la voz, diciendo: Quita de la tierra a tal hombre, porque no conviene que viva.
 Y como ellos gritaban y arrojaban sus ropas y lanzaban polvo al aire,
 mandó el tribuno que le metiesen en la fortaleza, y ordenó que fuese examinado con azotes, para saber por qué causa clamaban así contra él.
